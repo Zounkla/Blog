@@ -11,11 +11,11 @@
     <hr/>
     <h2 id='mentions'> Mentions </h2>
     <h3 id ='contact'> Contact</h3>
-      <p id='name'> Propriétaire : Florian Van Liedekerke  </p>
-      <p id='adresse'>Adresse : 16 Route de Tourneville, SACQUENVILLE 27930</p>
-      <p id='tel'>Me contacter : 06 32 78 40 22</p>
-      Mail : <a href= "mailto:florian.van-liedekerke@univ-rouen.fr"> 
-         florian.van-liedekerke@univ-rouen.fr 
+      <p id='name'> Propriétaire : Zounkla  </p>
+      <p id='adresse'>Adresse : Somewhere</p>
+      <p id='tel'>Me contacter : 00 00 00 00 00</p>
+      Mail : <a href= "mailto:none"> 
+         Il y'a un mail ici
       </a>
       <p id='job'>Etudiant en première année de licence Informatique</p>
     <hr/>
