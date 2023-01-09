@@ -1,0 +1,15 @@
+h1{
+  text-decoration: underline;
+  font-variant: small-caps;
+  text-align: center;
+}
+
+h2{
+  text-decoration: underline;
+  font-style: italic;
+}
+
+h3{
+  font-style: oblique;
+  text-decoration: underline;
+}

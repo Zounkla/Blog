@@ -1,0 +1,50 @@
+#footer{
+  border-style: solid;
+  border-color: purple;
+  border-width: 2px;
+}
+
+#mentions{
+  padding-left: 5%;
+}
+
+#droits{
+  padding-left: 65%;
+}
+
+body{
+  background-color: rgb(100, 150, 250);
+}
+
+h1{
+  text-decoration: underline;
+  font-variant: small-caps;
+  text-align: center;
+}
+
+.inscription{
+  border-style: double;
+  border-color: yellow;
+  border-width: 1px;
+  width: 50%;
+  margin: auto;
+}
+
+#pseudo{
+  position: relative;
+  left: 25%;
+}
+#mdp1{
+  position: relative;
+  left: 25%;
+}
+
+#mdp2{
+  position: relative;
+  left: 25%;
+}
+
+#submit{
+  position: relative;
+  left: 40%;
+}

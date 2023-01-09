@@ -1,0 +1,49 @@
+div.commentaires{
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  border-bottom-style: solid;
+  border-bottom-color: orange;
+  border-bottom-width: 2px;
+}
+
+div.title{
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-indent: 45%;
+}
+
+div.date{
+  text-indent: 75%;
+}
+
+div.texte{
+  text-indent: 10px;
+  text-align: center;
+}
+
+#article{
+  margin: auto;
+  border-style: double;
+  border-width: 5px;
+  border-color: rgb(150, 150, 100);
+}
+
+#footer{
+  border-style: solid;
+  border-color: olive;
+  border-width: 2px;
+}
+
+#mentions{
+  padding-left: 5%;
+}
+
+#droits{
+  padding-left: 65%;
+}
+
+body{
+  background-color: rgb(200, 200, 100);
+}

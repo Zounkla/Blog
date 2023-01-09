@@ -1,0 +1,88 @@
+html, body{
+  width: 100%;
+  height: 100%;
+  margin-left: 0px;
+}
+
+table{
+  width: 100%;
+  background-color: orange;
+} 
+
+.Nom{
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: 300%;
+  text-decoration: underline;
+}
+
+#header{  
+  background-color: grey;
+  height: 30%;
+  width: 100%;
+}
+
+#select{
+  float: left;
+}
+
+#research{
+  position: relative;
+  padding-left: 10%;
+  float: left;
+}
+
+#login{
+  padding-left: 35%;
+}
+
+
+#ecrire{
+  position: relative;
+  float: right;
+  right: 5%;
+}
+
+#register{
+  position: relative;
+  padding-left: 60%;
+  top: 40%;
+}
+
+div.articles{
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  border-style: solid;
+  border-color: olive;
+  border-width: 5px;
+  background-color: gold;
+}
+
+#page{
+  background-image: url("images/fond.jpg");
+}
+
+#DC{
+  position: relative;
+  padding-left: 35%;
+}
+
+#footer{
+  border-style: solid;
+  border-color: yellow;
+  border-width: 2px;
+}
+
+#mentions{
+  padding-left: 5%;
+}
+
+#droits{
+  padding-left: 65%;
+}
+
+#profil{
+  position: relative;
+  padding-left: 45%;
+}
